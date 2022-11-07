@@ -1,2 +1,0 @@
-# navbar
-Responsive Manue
